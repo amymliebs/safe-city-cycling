@@ -1,25 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project creates a review site for bike lanes. Streets are organized by city and include reviews. Only logged in users can create, edit, or delete their own street description or review.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+1.  Visitors can select a city or town to view a list of streets for which bike lane reviews have been submitted.
 
-* System dependencies
+2.  Logged in users can add a street for review. Users may edit or delete street descriptions that they have previously submitted.
 
-* Configuration
+3.  Logged in users can add a review of bike lane availability on a chosen street. Users may edit or delete a bike lane review that they have previously submitted.
 
-* Database creation
+4.  Admin can add, edit, or delete any bike lane description or review.
 
-* Database initialization
 
-* How to run the test suite
+Technologies:
+* Ruby on Rails backend
+* React.js frontend
+* Foundation 5 styling
+* Devise user authentication
+* RSpec and Enzyme with Jest testing included
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # safe-city-cycling
