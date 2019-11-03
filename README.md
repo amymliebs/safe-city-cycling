@@ -1,4 +1,6 @@
-# README
+# Safe City Cycling
+
+-- Project is currently in-progress --
 
 This project creates a review site for bike lanes. Streets are organized by city and include reviews. Only logged in users can create, edit, or delete their own street description or review.
 
@@ -20,4 +22,4 @@ Technologies:
 * Devise user authentication
 * RSpec and Enzyme with Jest testing included
 
-# safe-city-cycling
+
